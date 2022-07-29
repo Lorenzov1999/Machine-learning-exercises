@@ -1,7 +1,18 @@
-# machine_learning_exercises 
-Exercises of the machine learning course.
+<h1 align="center">Machine Learning exercises</h1>
 
-***
+This repository contains the exercises for the *Machine Learning* [course](https://didattica.unipd.it/off/2021/LM/SC/SC2443/000ZZ/SCP8082557/N0), by **Prof. Zanuttigh**, AY 2021/22.
+
+
+### Table of contents
+
+- LAB0
+    - R & dataset exploration
+- LAB1
+    - basics of probability distributions
+- LAB2
+    - test of Markov and Čebyšëv's inequalities
+- LAB3
+    - random number generator (middle square algorithm)
 
 <h6 align="center">repository by Lorenzo Valentini</h6>
 
