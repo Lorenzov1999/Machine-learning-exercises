@@ -1,6 +1,6 @@
 <h1 align="center">Machine Learning exercises</h1>
 
-This repository contains the exercises for the *Machine Learning* [course](https://didattica.unipd.it/off/2021/LM/SC/SC2443/000ZZ/SCP8082557/N0), by **Prof. Zanuttigh**, AY 2021/22.
+This repository contains the exercises for the *Machine Learning* [course](https://didattica.unipd.it/off/2021/LM/SC/SC2443/000ZZ/SCP8082660/N0), by **Prof. Zanuttigh**, AY 2021/22.
 
 
 ### Table of contents
