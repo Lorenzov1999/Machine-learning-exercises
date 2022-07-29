@@ -3,7 +3,7 @@ Exercises of the machine learning course.
 
 ***
 
-<h6 align="center">repository by Francesco Pio Barone</h6>
+<h6 align="center">repository by Lorenzo Valentini</h6>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/62724611/166108149-7629a341-bbca-4a3e-8195-67f469a0cc08.png" alt="" height="70"/>
