@@ -6,13 +6,13 @@ This repository contains the exercises for the *Machine Learning* [course](https
 ### Table of contents
 
 - LAB0
-    - R & dataset exploration
+    - linear regressions with sklearn and scipy
 - LAB1
-    - basics of probability distributions
+    - perceptron, linear regression and logistic regression for music genre classifications and house prices predictions.
 - LAB2
-    - test of Markov and Čebyšëv's inequalities
+    - Kuzushiji classification with Support Vector Machines
 - LAB3
-    - random number generator (middle square algorithm)
+    - Kuzushiji classification with Neural Networks
 
 <h6 align="center">repository by Lorenzo Valentini</h6>
 
